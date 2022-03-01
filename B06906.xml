@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devil upon Dun: or The downfall of the upstart chymist: being the second edition of a late song: to the tune of Smoak us, and choak us.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06906</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[384]</idno>
+            <idno type="EEBO-CITATION">99887011</idno>
+            <idno type="PROQUEST">ocm99887011</idno>
+            <idno type="VID">181705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181705)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[387])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devil upon Dun: or The downfall of the upstart chymist: being the second edition of a late song: to the tune of Smoak us, and choak us.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Second edition.</edition>
+               </editionStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Brooke at the Angel in Cornhill near the Royal-Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181705:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>The DEVIL upon DUN: OR The Downfall of the Upſtart CHYMIST:</head>
+            <argument>
+               <p>Being the <hi>Second Edition</hi> of a Late SONG: </p>
+            </argument>
+            <opener>To the Tune of <hi>Smoak us, and choak us.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>'MOngſt all Profeſſions in the Town,</l>
+               <l>Held moſt in renown,</l>
+               <l>From th' Sword to the Gown,</l>
+               <l>The upſtart <hi>Chymiſt</hi> rules the Roaſt;</l>
+               <l>For He with his Pill</l>
+               <l>Does ev'n what he will,</l>
+               <l>Employing his skill,</l>
+               <l>Good Subjects to kill,</l>
+               <l>That he of his dang'rous Art may boaſt,</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, that man of the fire,</hi>
+               </l>
+               <l>
+                  <hi>Who by his Black Art</hi>
+               </l>
+               <l>
+                  <hi>Does Soul and Body part:</hi>
+               </l>
+               <l>
+                  <hi>He ſmoaks us, and choaksus,</hi>
+               </l>
+               <l>
+                  <hi>And leaves us like Dun in the mire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And firſt for the <hi>Lawyers,</hi> who multiply,</l>
+               <l>That one can ſcarce lye,</l>
+               <l>And th' other ſtand by,</l>
+               <l>Five Grains took of th' grand Preparation,</l>
+               <l>Their Bodies will maull,</l>
+               <l>Thin <hi>Weſtminſter-Hall,</hi>
+               </l>
+               <l>Ceaſe Suits, and give a long Vacation.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At th' <hi>Seſſions houſe</hi> he commenc'd his Trade,</l>
+               <l>Where he aloud pray'd</l>
+               <l>For th' King, long he ſtay'd</l>
+               <l>Not there, being burnt in th' hand</l>
+               <l>To inure him to fire,</l>
+               <l>He proceeded then high'r,</l>
+               <l>Reſtleſs in deſire,</l>
+               <l>Till he of a Chymiſt had the Brand.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As for the Parſons, both <hi>Pro</hi> and <hi>Con,</hi>
+               </l>
+               <l>Diſpute, and Objection,</l>
+               <l>Can't ſave them, th' <hi>Chymiſt</hi> anon</l>
+               <l>With th' <hi>Elixir</hi> can ſoon end the ſtrife,</l>
+               <l>Straight ſilence them both,</l>
+               <l>Who t' agree are loth,</l>
+               <l>For th' Ginny-pigs ſake, though</l>
+               <l>Their quarrels give th' <hi>Old Cauſe</hi> new life.</l>
+            </lg>
+            <lg>
+               <l>Alſo the Souldier, that man of Arms,</l>
+               <l>Who never fears harms,</l>
+               <l>Nor any freſh alarms,</l>
+               <l>Let this <hi>Chymiſt</hi> enter the Field</l>
+               <l>Ev'n with a General,</l>
+               <l>The brav'ſt Collonel,</l>
+               <l>A Pill, or Sublimate will make them yield.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dull <hi>Ariſtotle</hi> was an old Fool,</l>
+               <l>For he went to School</l>
+               <l>Inſtead of the Stool:</l>
+               <l>What he wrote, he ſtole from Books;</l>
+               <l>This myſterie is ſuch,</l>
+               <l>Say who can too much</l>
+               <l>In it? whoſe deadly touch,</l>
+               <l>Makes Bum-foder ſcarce, it who twice brooks?</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, that man of the fire,</hi>
+               </l>
+               <l>
+                  <hi>Who by his Black Art</hi>
+               </l>
+               <l>
+                  <hi>Does Soul and Body part:</hi>
+               </l>
+               <l>
+                  <hi>He ſmoaks us, and choaks us,</hi>
+               </l>
+               <l>
+                  <hi>And leaves us like Dun in the mire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The learned Univerſities,</l>
+               <l>Ancient as Mince-pies,</l>
+               <l>Say that all are lies,</l>
+               <l>But <hi>Emperick-like</hi> hee'll make them broil</l>
+               <l>Like Sprats on the cole,</l>
+               <l>Leaving them no ſoul,</l>
+               <l>But make a deep hole</l>
+               <l>To bury their old heatheniſh ſoil.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Old Phyſitians never writ</l>
+               <l>Ought of real wit,</l>
+               <l>But what was moſt fit</l>
+               <l>To be refin'd by th' Chymical Art;</l>
+               <l>
+                  <hi>Rubarb, Senna,</hi> and Drugs</l>
+               <l>Ev'n like to College Mugs,</l>
+               <l>Which the Sophiſter oft lugs,</l>
+               <l>Nothing comes, but a Metaphyſical F—</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Gainſt <hi>Hippocrates</hi> and <hi>Galen</hi> eke,</l>
+               <l>Theſe Saints have a peke,</l>
+               <l>'Cauſe they wrote in <hi>Greek;</hi>
+               </l>
+               <l>With Learning they'l not trouble the Brain,</l>
+               <l>The Mother-tongue alone</l>
+               <l>Kills dead as a ſtone;</l>
+               <l>This done with th' fifteenth part of a Grain.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The College Doctors with great heat,</l>
+               <l>Do very much brow-beat</l>
+               <l>So deſp'rate a cheat,</l>
+               <l>Uſing prov'd methods ſafe to cure;</l>
+               <l>Yet theſe <hi>Chymiſts</hi> cry,</l>
+               <l>Who dares it deny?</l>
+               <l>At eaſie rates they'l make all ſure.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If Wife of Husband, or Husband of Wife,</l>
+               <l>By reaſon of ſtrife</l>
+               <l>Are we'ry, Or Fathers life</l>
+               <l>Hinders th' Heir; his Laboratory</l>
+               <l>Can perform with haſt,</l>
+               <l>Without much diſtaſt,</l>
+               <l>What <hi>Indian</hi> poyſon cann't ſupply.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, that man of the fire,</hi>
+               </l>
+               <l>
+                  <hi>Who by his Black Art</hi>
+               </l>
+               <l>
+                  <hi>Does Soul and Body part:</hi>
+               </l>
+               <l>
+                  <hi>He ſmoaks us, and choaks us,</hi>
+               </l>
+               <l>
+                  <hi>And leaves us like Dun in the mire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The learned <hi>Chymiſts</hi> we don't decry,</l>
+               <l>Natures Myſtery</l>
+               <l>He moſt faithfully</l>
+               <l>Unlocks: But our upſtart <hi>Chymiſts</hi> bee</l>
+               <l>A meer muſhroom ſtrain</l>
+               <l>Who give Folks their bain</l>
+               <l>Very <hi>Quacks</hi> in grain,</l>
+               <l>They, and the Sextons are in Fee.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How ſay y' Sirs, ſhall theſe practiſe then,</l>
+               <l>Very expert men</l>
+               <l>T' kill, <hi>Dick, Tom,</hi> and <hi>Ben?</hi>
+               </l>
+               <l>Nay, rather let this Chymical Crew,</l>
+               <l>Be ſent to <hi>Algier,</hi>
+               </l>
+               <l>That Trade may be free'r:</l>
+               <l>They'l outdoe a Navy, give the Devil his due:</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then may <hi>New Troy</hi> with Citizens fill,</l>
+               <l>Being ſecur'd from ill;</l>
+               <l>Then no printed Bill,</l>
+               <l>No Almanack; no Tradeſman's Shop</l>
+               <l>Shall th' <hi>Elixir</hi> vent,</l>
+               <l>To make Experiment</l>
+               <l>On liege people, killing with one drop.</l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now to conclude, let's merrily ſing</l>
+               <l>God bleſs Our Good KING</l>
+               <l>From the Dragons Sting,</l>
+               <l>Heavens preſerve him Ages about:</l>
+               <l>For none of his Foes</l>
+               <l>The Common-weal oppoſe,</l>
+               <l>As every one knows,</l>
+               <l>By their great hurt, and woes,</l>
+               <l>Than th' <hi>Quack</hi> and this <hi>Chymical Ront.</hi>
+               </l>
+               <l>
+                  <hi>O 'tis the Chymiſt, &amp;c.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for: <hi>Nathaniel Brooke</hi> at the <hi>Angel</hi> in <hi>Cornhill</hi> near the <hi>Royal-Exchange,</hi> 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
